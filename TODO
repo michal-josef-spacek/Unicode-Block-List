@@ -1,9 +1,11 @@
 TODO
 ====
-1. Trida, ktera v sobe ma seznamy unicode blocku a umozni vratit objekt daneho
-   bloku.
-   https://en.wikipedia.org/wiki/Unicode_block
-2.
+2. Jak z vystupu jednoduse dostat vystup s Unicode::Block::Ascii a jinych?
+3.
 
 Applied
 =======
+1. Trida, ktera v sobe ma seznamy unicode blocku a umozni vratit objekt daneho
+   bloku.
+   https://en.wikipedia.org/wiki/Unicode_block
+OK [20131023] skim
