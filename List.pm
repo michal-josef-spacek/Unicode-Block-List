@@ -30,7 +30,7 @@ sub new {
 sub block {
 	my ($self, $block) = @_;
 	my $charblock_ar = charblock($block);
-	if (! @{$charblock_ar}) {
+	if (ref $charblock_ar ne 'ARRAY' || ! @{$charblock_ar}) {
 		return;
 	}
 	my $char_from = sprintf '%04x', $charblock_ar->[0]->[0];
