@@ -10,6 +10,7 @@ abstract 'List of unicode blocks.';
 author 'Michal Špaček <skim@cpan.org>';
 license 'bsd';
 name 'Unicode-Block-List';
+readme_from 'List.pm';
 requires 'Class::Utils' => 0.02;
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Unicode-Block-List';
