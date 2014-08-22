@@ -27,6 +27,8 @@ no_index:
     - t
 requires:
   Class::Utils: 0.02
+  Unicode::Block: 0.02
+  Unicode::UCD: 0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Unicode-Block-List
   homepage: https://github.com/tupinek/Unicode-Block-List

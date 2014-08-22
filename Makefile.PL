@@ -12,6 +12,8 @@ license 'bsd';
 name 'Unicode-Block-List';
 readme_from 'List.pm';
 requires 'Class::Utils' => 0.02;
+requires 'Unicode::Block' => 0.02;
+requires 'Unicode::UCD' => 0;
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Unicode-Block-List';
 resources 'homepage' => 'https://github.com/tupinek/Unicode-Block-List';
