@@ -21,3 +21,4 @@ t/Unicode-Block-List/00-use.t
 t/Unicode-Block-List/01-version.t
 t/Unicode-Block-List/02-pod_coverage.t
 t/Unicode-Block-List/03-pod.t
+t/Unicode-Block-List/04-new.t
