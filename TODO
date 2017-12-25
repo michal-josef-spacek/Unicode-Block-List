@@ -2,8 +2,6 @@ TODO
 ====
 2. Jak z vystupu jednoduse dostat vystup s Unicode::Block::Ascii a jinych?
 3. Testy.
-4. Druhy priklad v dokumentaci.
-Pridat priklad s Curses::UI select.
 5.
 
 Applied
@@ -12,3 +10,7 @@ Applied
    bloku.
    https://en.wikipedia.org/wiki/Unicode_block
 OK [20131023] skim
+
+4. Druhy priklad v dokumentaci.
+Pridat priklad s Curses::UI select.
+OK [20171225] skim

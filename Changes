@@ -1,4 +1,5 @@
 0.03
+ - Add third example to doc.
  - Rewrite to author tests.
  - Update LICENSE AND COPYRIGHT section in doc.
  - Update Module::Install to 1.18 version.
