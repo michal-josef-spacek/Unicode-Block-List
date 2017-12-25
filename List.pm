@@ -10,7 +10,7 @@ use Unicode::Block;
 use Unicode::UCD qw(charblock charblocks);
 
 # Version.
-our $VERSION = 0.03;
+our $VERSION = 0.04;
 
 # Constructor.
 sub new {
@@ -463,6 +463,6 @@ L<http://skim.cz>
 
 =head1 VERSION
 
-0.03
+0.04
 
 =cut
