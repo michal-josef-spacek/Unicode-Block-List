@@ -1,6 +1,7 @@
 0.03
  - Update LICENSE AND COPYRIGHT section in doc.
  - Update Module::Install to 1.18 version.
+ - Update author name.
 
 0.02 2014-08-28T01:13:45+02:00
  - Add another EXAMPLE section to doc.

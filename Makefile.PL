@@ -7,7 +7,7 @@ use inc::Module::Install;
 
 # Definition.
 abstract 'List of unicode blocks.';
-author 'Michal Spacek <skim@cpan.org>';
+author 'Michal Josef Spacek <skim@cpan.org>';
 license 'bsd';
 name 'Unicode-Block-List';
 readme_from 'List.pm';
