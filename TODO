@@ -2,7 +2,8 @@ TODO
 ====
 2. Jak z vystupu jednoduse dostat vystup s Unicode::Block::Ascii a jinych?
 3. Testy.
-5.
+5. Vypis jako v /usr/share/unicode/Blocks.txt ?
+6.
 
 Applied
 =======
