@@ -1,15 +1,12 @@
 package Unicode::Block::List;
 
-# Pragmas.
 use strict;
 use warnings;
 
-# Modules.
 use Class::Utils qw(set_params);
 use Unicode::Block;
 use Unicode::UCD qw(charblock charblocks);
 
-# Version.
 our $VERSION = 0.04;
 
 # Constructor.
@@ -96,11 +93,9 @@ Constructor.
 
 =head1 EXAMPLE1
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Encode qw(encode_utf8);
  use Unicode::Block::Ascii;
  use Unicode::Block::List;
@@ -147,11 +142,9 @@ Constructor.
 
 =head1 EXAMPLE2
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Data::Printer;
  use Unicode::Block::List;
 
@@ -379,11 +372,9 @@ Constructor.
 
 =head1 EXAMPLE3
 
- # Pragmas.
  use strict;
  use warnings;
  
- # Modules.
  use Curses::UI;
  use Encode qw(encode_utf8);
  use Unicode::Block::Ascii;

@@ -25,11 +25,9 @@ ERRORS
                      Unknown parameter '%s'.
 
 EXAMPLE1
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(encode_utf8);
      use Unicode::Block::Ascii;
      use Unicode::Block::List;
@@ -75,11 +73,9 @@ EXAMPLE1
      # Block 'foo' doesn't exist.
 
 EXAMPLE2
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Data::Printer;
      use Unicode::Block::List;
 
@@ -306,11 +302,9 @@ EXAMPLE2
      # ]
 
 EXAMPLE3
-     # Pragmas.
      use strict;
      use warnings;
  
-     # Modules.
      use Curses::UI;
      use Encode qw(encode_utf8);
      use Unicode::Block::Ascii;
@@ -379,7 +373,7 @@ AUTHOR
     <http://skim.cz>
 
 LICENSE AND COPYRIGHT
-     © 2013-2017 Michal Josef Špaček
+     © 2013-2018 Michal Josef Špaček
      BSD 2-Clause License
 
 VERSION
