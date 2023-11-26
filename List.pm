@@ -99,6 +99,8 @@ Returns array of Unicode block names.
 
 =head1 EXAMPLE1
 
+=for comment filename=print_unicode_block.pl
+
  use strict;
  use warnings;
 
@@ -147,6 +149,8 @@ Returns array of Unicode block names.
  # Block 'foo' doesn't exist.
 
 =head1 EXAMPLE2
+
+=for comment filename=list_unicode_blocks.pl
 
  use strict;
  use warnings;
@@ -377,6 +381,8 @@ Returns array of Unicode block names.
  # ]
 
 =head1 EXAMPLE3
+
+=for comment filename=print_unicode_block_in_curses_ui.pl
 
  use strict;
  use warnings;
