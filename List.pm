@@ -439,7 +439,7 @@ L<Unicode::UCD>.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Unicode-Block-List>
+L<https://github.com/michal-josef-spacek/Unicode-Block-List>
 
 =head1 AUTHOR
 
