@@ -1,4 +1,5 @@
 0.05
+ - Improve LICENSE AND COPYRIGHT section in doc.
  - Update Module::Install to 1.21 version.
 
 0.04 2018-02-07T07:57:13+01:00
