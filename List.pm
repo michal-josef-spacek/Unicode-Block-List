@@ -61,6 +61,7 @@ Unicode::Block::List - List of unicode blocks.
 =head1 SYNOPSIS
 
  use Unicode::Block::List;
+
  my $obj = Unicode::Block->new(%parameters);
  my $block = $obj->block($block);
  my @list = $obj->list; 
