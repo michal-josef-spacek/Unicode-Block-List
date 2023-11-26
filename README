@@ -9,16 +9,24 @@ SYNOPSIS
      my @list = $obj->list;
 
 METHODS
-    "new(%parameters)"
-            Constructor.
+  "new"
+     my $obj = Unicode::Block->new(%parameters);
 
-    "block($block)"
-             Get Unicode::Block object for defined Unicode block.
-             Returns Unicode::Block object.
+    Constructor.
 
-    "list()"
-             Get list of blocks.
-             Returns array of Unicode block names.
+    Returns instance of object.
+
+  "block"
+     my $block = $obj->block($block);
+
+    Get Unicode::Block object for defined Unicode block.
+
+    Returns Unicode::Block object.
+
+  "list"
+     my @list = $obj->list;
+
+    Get list of blocks. Returns array of Unicode block names.
 
 ERRORS
      new():

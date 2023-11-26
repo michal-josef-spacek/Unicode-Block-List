@@ -64,27 +64,32 @@ Unicode::Block::List - List of unicode blocks.
 
  my $obj = Unicode::Block->new(%parameters);
  my $block = $obj->block($block);
- my @list = $obj->list; 
+ my @list = $obj->list;
 
 =head1 METHODS
 
-=over 8
+=head2 C<new>
 
-=item C<new(%parameters)>
+ my $obj = Unicode::Block->new(%parameters);
 
 Constructor.
 
-=item C<block($block)>
+Returns instance of object.
 
- Get Unicode::Block object for defined Unicode block.
- Returns Unicode::Block object.
+=head2 C<block>
 
-=item C<list()>
+ my $block = $obj->block($block);
 
- Get list of blocks.
- Returns array of Unicode block names.
+Get Unicode::Block object for defined Unicode block.
 
-=back
+Returns Unicode::Block object.
+
+=head2 C<list>
+
+ my @list = $obj->list;
+
+Get list of blocks.
+Returns array of Unicode block names.
 
 =head1 ERRORS
 
